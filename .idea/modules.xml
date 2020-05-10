@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../sp-common/sp-common.iml" filepath="$PROJECT_DIR$/../sp-common/sp-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp-eureka/sp-eureka.iml" filepath="$PROJECT_DIR$/sp-eureka/sp-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp-itemservice/sp-itemservice.iml" filepath="$PROJECT_DIR$/sp-itemservice/sp-itemservice.iml" />
+    </modules>
+  </component>
+</project>
